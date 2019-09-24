@@ -1,0 +1,8 @@
+---
+layout: default
+img: circuit-board.png
+category: Services
+title: Apache NiFi & Dataflow consultancy
+description: |
+---
+  we only employ the best people with extensive application knowledge and demonstrable skills with experience in working in the most secure environments. The team shares a common commitment to excellence and working flexibly to realise the benefits for our  Customers and their Clients.

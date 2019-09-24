@@ -1,0 +1,33 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://toosacrowd.github.io/
+title: GreenPipe Ltd
+email: toosacrowd@domain.com
+author: toosacrowd
+description: GreenPipe Ltd Apache NiFi  dataflow consultancy and training.
+copyright: 'Copyright &copy; 2019 GreenPipe. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+#  - title: twitter
+#    url: https://twitter.com/SBootstrap
+#  - title: github
+#    url: https://github.com/Green-Pipe
+#  - title: linkedin
+#    url: 
+
+future: true

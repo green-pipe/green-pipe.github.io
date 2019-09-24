@@ -1,0 +1,8 @@
+---
+layout: default
+img: software.png
+category: Services
+title: Bespoke software components
+description: |
+---
+   we have the skills to develop bespoke components and can also provide a conduit to open source developers as we actively engage with the open source community

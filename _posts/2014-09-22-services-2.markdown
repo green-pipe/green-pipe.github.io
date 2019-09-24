@@ -1,0 +1,8 @@
+---
+layout: default
+img: learning.png
+category: Services
+title: Tailored training
+description: |
+---
+  in addition to our expertise in building and creating dataflow systems for our customers we offer tailored training packages designed to upskill customer staff with the knowledge required for long term support
